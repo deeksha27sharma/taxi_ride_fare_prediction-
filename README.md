@@ -86,8 +86,8 @@ MAE: 2.00
 
 🖥 **How to Run**
 # Clone repository
-git clone https://github.com/your-username/uber-fare-prediction.git
-cd uber-fare-prediction
+git clone : (https://github.com/deeksha27sharma/taxi_ride_fare_prediction)
+cd taxi_ride_fare_prediction
 
 ## Download dataset 
 The dataset used for this project is included in the repository for easy access.
